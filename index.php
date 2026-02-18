@@ -9,5 +9,9 @@
     <p>Address</p>
     <input type="text" name="Address">
     
+    <!-- Добавьте эти две строки -->
+    <p>Year of registration</p>
+    <input type="number" name="Year_of_registration">
+    
     <button type="submit">Add</button>
 </form>
